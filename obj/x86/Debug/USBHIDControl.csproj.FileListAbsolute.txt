@@ -40,3 +40,9 @@ D:\anjubao\ajb\USBHID完整例程\obj\x86\Debug\USBHIDControl.csproj.GenerateRes
 D:\anjubao\ajb\USBHID完整例程\obj\x86\Debug\USBHIDControl.csprojResolveAssemblyReference.cache
 D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.exe
 D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.pdb
+D:\anjubao\ajb\USBHID_Demo\bin\Debug\USBHIDControl.exe
+D:\anjubao\ajb\USBHID_Demo\bin\Debug\USBHIDControl.pdb
+D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.csprojResolveAssemblyReference.cache
+D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.Form1.resources
+D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.Properties.Resources.resources
+D:\anjubao\ajb\USBHID_Demo\obj\x86\Debug\USBHIDControl.csproj.GenerateResource.Cache

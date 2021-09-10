@@ -31,6 +31,3 @@ build/
 .vscode/
 
 ### user config ##
-.vs
-bin
-obj
